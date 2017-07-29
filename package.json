@@ -1,0 +1,16 @@
+{
+  "name": "backstopjstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "backstopjs": "^2.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "reference": "backstop reference",
+    "test": "backstop test"
+  },
+  "author": "",
+  "license": "ISC"
+}
